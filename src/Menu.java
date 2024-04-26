@@ -92,6 +92,7 @@ public class Menu {
 
 
 
+
         // Dodanie informacji
         gbc.gridx = 0;
         gbc.gridy = 6;
