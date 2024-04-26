@@ -213,6 +213,7 @@ public class RandomPageOpenerWithMouse2 {
                     robot.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
                     System.out.println("Kliknięcie lewym przyciskiem myszy wykonane.");
 
+
                     // Pauza na 4 sekund
                     Thread.sleep(4000);
 

@@ -15,6 +15,7 @@ public class MousePosition {
                     System.out.println("Aktualna pozycja myszy: x = " + mouseLocation.x + ", y = " + mouseLocation.y);
                 } catch (InterruptedException e) {
                     System.out.println("Przerwano wątek.");
+
                 }
             }
         }

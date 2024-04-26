@@ -81,6 +81,8 @@ public class Menu {
 
 
 
+
+
         checkboc.addActionListener(e -> {
             if (checkboc.isSelected()){
                 publicVariable.checekedbox = 0;

@@ -12,5 +12,6 @@ public class MousePosition2 {
         }
         // Tutaj dodaj kod do kliknięcia myszą
 
+
     }
 }

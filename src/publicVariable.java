@@ -9,6 +9,7 @@ public class publicVariable {
 
     public static int typmod = 1;
 
+
     public static int checekedbox = 1;
 
     public static int buttoncheck = 0;
