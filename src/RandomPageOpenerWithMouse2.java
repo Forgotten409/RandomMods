@@ -312,7 +312,7 @@ public class RandomPageOpenerWithMouse2 {
 
                     // Przesunięcie myszy na inne współrzędne
                     //klikniece w pobierz
-                    robot.mouseMove(719, 704);
+                    robot.mouseMove(722, 736);
                     // Kliknięcie lewym przyciskiem myszy
                     robot.mousePress(InputEvent.BUTTON1_DOWN_MASK);
                     robot.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
